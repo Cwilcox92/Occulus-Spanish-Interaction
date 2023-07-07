@@ -9,7 +9,7 @@ The model was created using a reference picture and Ready Player Me Avatar. Unit
 
 
 
-https://github.com/Cwilcox92/Occulus-Spanish-Interaction/assets/43153718/b2aa43cf-635e-4e6f-a0a0-275ef948b9c9
+![Video 1] (https://github.com/Cwilcox92/Occulus-Spanish-Interaction/assets/43153718/b2aa43cf-635e-4e6f-a0a0-275ef948b9c9)
 *video 1: Showcasing the environment*
 
 
